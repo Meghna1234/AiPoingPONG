@@ -1,0 +1,20 @@
+.heading{
+    width:100%
+}
+
+.heading h3{
+    float:left;
+}
+
+.heading button{
+    float:right;
+}
+
+h4{
+    position:fixed;
+    bottom:0;
+    margin:0;
+    line-height:2;
+    width:100%;
+    background-color:white;
+}
